@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Mehraveh
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Deep+Learning+Learner;NLP+Explorer;Computer+Vision+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;NLP+Explorer;Computer+Vision+Developer" alt="Typing SVG" />
 
 </div>
 
@@ -33,8 +33,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=melofy-vibes&show_icons=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melofy-vibes&layout=compact" height="165">
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=melofy-vibes&theme=algolia&no-frame=true&margin-w=15" />
 </p>
 
 ---

@@ -1,45 +1,71 @@
-# Hi there 👋
+<div align="center">
 
-I'm Mehraveh.
+# Hi 👋, I'm Mehraveh
 
-## 🧠 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Deep+Learning+Learner;NLP+Explorer;Computer+Vision+Developer" alt="Typing SVG" />
 
-- 📚 Learning Deep Learning and Natural Language Processing
-- 🤖 Interested in Language Models and Computer Vision
-- 🐍 Working primarily with Python
-- 📊 Passionate about extracting insights from data
+</div>
 
-## 🛠️ Technologies
+---
 
-- Python
-- NumPy
-- Pandas
-- TensorFlow
-- Scikit-Learn
-- Matplotlib
-- OpenCV
+## 🚀 About Me
 
-## 🚀 Current Goals
+🧠 Learning **Deep Learning**, **NLP**, and **Computer Vision**
 
-- Build better ML projects
-- Improve deep learning and NLP skills
-- Contribute to open-source projects
+🤖 Interested in **Large Language Models (LLMs)** and AI research
 
-## 📫 Contact
+🐍 Building projects with **Python**
 
-Email: goharshadimehraveh@gmail.com
+📊 Passionate about turning data into insights
 
-<!--
-**melofy-vibes/melofy-vibes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently exploring **Transformers**, **Vector Databases**, and **RAG Systems**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="165">
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 🔥 Current Goals
+
+* Build impactful AI projects
+* Improve Deep Learning expertise
+* Contribute to Open Source
+* Learn MLOps & Deployment
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="mailto:goharshadimehraveh@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+</p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
+
+⭐ Thanks for visiting my profile!

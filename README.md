@@ -30,21 +30,17 @@
 
 ### 🚀 Featured Projects
 
-<p align="left">
+#### 🎬 [Semantic Movie Recommender](https://github.com/melofy-vibes/Semantic-Movie-Recommender)
 
-<a href="https://github.com/melofy-vibes/Semantic-Recommender">
-  <img src="https://img.shields.io/badge/🎬%20Semantic%20Recommender-Click%20Here-blue?style=for-the-badge">
-</a>
+Semantic movie recommendation system using embeddings, vector databases, and LangChain.
 
-<a href="https://github.com/melofy-vibes/USA-Crime-Analysis">
-  <img src="https://img.shields.io/badge/📊%20Crime%20Analysis-Click%20Here-green?style=for-the-badge">
-</a>
+#### 📊 [USA Crime Analysis](https://github.com/melofy-vibes/USA-Crime-Analysis)
 
-<a href="https://github.com/melofy-vibes/Delashpaz">
-  <img src="https://img.shields.io/badge/🍳%20Delashpaz-Click%20Here-orange?style=for-the-badge">
-</a>
+Exploratory data analysis and visualization of crime trends across the United States.
 
-</p>
+#### 🍳 [Delashpaz](https://github.com/melofy-vibes/Delashpaz)
+
+Desktop recipe management application with database integration.
 
 ---
 

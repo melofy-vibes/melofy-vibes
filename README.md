@@ -34,6 +34,9 @@
 
 ### 🚀 Featured Projects
 
+#### 🧍 [Pose Detection](https://github.com/melofy-vibes/Pose-Detection.git)
+
+
 #### 🎬 [Semantic Movie Recommender](https://github.com/melofy-vibes/Semantic-Movie-Recommender)
 
 

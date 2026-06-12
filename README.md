@@ -28,20 +28,20 @@
 
 ---
 
-## 📈 GitHub Stats
+### 🚀 Featured Projects
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=melofy-vibes&show_icons=true" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melofy-vibes&layout=compact" height="165">
-</p>
+#### 🎬 Semantic Movie Recommender
 
----
+Semantic movie recommendation system using embeddings, vector databases, and LangChain.
 
-## 🏆 GitHub Trophies
+#### 📊 USA Crime Analysis
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=melofy-vibes&theme=algolia&no-frame=true&margin-w=15" />
-</p>
+Exploratory data analysis and visualization of crime trends across the United States.
+
+#### 🍳 Delashpaz
+
+Desktop recipe management application with database integration.
+
 
 ---
 ## 🔥 GitHub Streaks
@@ -53,7 +53,6 @@
 * Build impactful AI projects
 * Improve Deep Learning expertise
 * Contribute to Open Source
-* Learn MLOps & Deployment
 
 ---
 
@@ -70,3 +69,14 @@
 ![](https://komarev.com/ghpvc/?username=melofy-vibes\&color=blue)
 
 ⭐ Thanks for visiting my profile!
+
+
+<h1 align="center">Hi 👋 I'm Mehraveh</h1>
+
+<p align="center">
+Machine Learning • NLP • Computer Vision
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&width=435&lines=Machine+Learning+Enthusiast;Deep+Learning+Learner;NLP+Explorer;Computer+Vision+Developer" />
+</p>

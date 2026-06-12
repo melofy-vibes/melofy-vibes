@@ -6,6 +6,8 @@
 
 ---
 
+![My GIF](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNms4cG4yODI2b3NtNnR0M2Uwc3RteXBweTR1a2p2ZnYxODN3aWoxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif)
+
 ## 🚀 About Me
 
 🧠 Learning **Deep Learning**, **NLP**, and **Computer Vision**

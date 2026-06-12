@@ -4,9 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;NLP+Explorer;Computer+Vision+Developer" alt="Typing SVG" />
 
-![Snake animation](https://github.com/YOUR_USERNAME/melofy-vibes/blob/output/github-contribution-grid-snake.svg)
-</div>
-
 ---
 
 ## 🚀 About Me
@@ -47,8 +44,11 @@
 </p>
 
 ---
+## 🔥 GitHub Streaks
+![GitHub Streak](https://streak-stats.demolab.com?user=melofy-vibes)
+---
 
-## 🔥 Current Goals
+## 🎯 Current Goals
 
 * Build impactful AI projects
 * Improve Deep Learning expertise
@@ -67,6 +67,6 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
+![](https://komarev.com/ghpvc/?username=melofy-vibes\&color=blue)
 
 ⭐ Thanks for visiting my profile!

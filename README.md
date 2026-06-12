@@ -36,15 +36,12 @@
 
 #### 🎬 [Semantic Movie Recommender](https://github.com/melofy-vibes/Semantic-Movie-Recommender)
 
-Semantic movie recommendation system using embeddings, vector databases, and LangChain.
 
 #### 📊 [USA Crime Analysis](https://github.com/melofy-vibes/USA-Crime-Analysis)
 
-Exploratory data analysis and visualization of crime trends across the United States.
 
 #### 🍳 [Delashpaz](https://github.com/melofy-vibes/Delashpaz)
 
-Desktop recipe management application with database integration.
 
 ---
 

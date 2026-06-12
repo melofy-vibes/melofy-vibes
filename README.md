@@ -30,17 +30,21 @@
 
 ### 🚀 Featured Projects
 
+<p align="left">
+
 <a href="https://github.com/melofy-vibes/Semantic-Recommender">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=melofy-vibes&repo=Semantic-Recommender" />
+  <img src="https://img.shields.io/badge/🎬%20Semantic%20Recommender-Click%20Here-blue?style=for-the-badge">
 </a>
 
 <a href="https://github.com/melofy-vibes/USA-Crime-Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=melofy-vibes&repo=USA-Crime-Analysis" />
+  <img src="https://img.shields.io/badge/📊%20Crime%20Analysis-Click%20Here-green?style=for-the-badge">
 </a>
 
 <a href="https://github.com/melofy-vibes/Delashpaz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=melofy-vibes&repo=Delashpaz" />
+  <img src="https://img.shields.io/badge/🍳%20Delashpaz-Click%20Here-orange?style=for-the-badge">
 </a>
+
+</p>
 
 ---
 

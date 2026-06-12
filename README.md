@@ -39,26 +39,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-### 🚀 Featured Projects
-
-#### 📸 [Instagram Attractiveness Scorer](https://github.com/melofy-vibes/Instagram-Attractiveness-Scorer.git)
-
-
-#### 🧍 [Pose Detection](https://github.com/melofy-vibes/Pose-Detection.git)
-
-
-#### 🎬 [Semantic Movie Recommender](https://github.com/melofy-vibes/Semantic-Movie-Recommender)
-
-
-#### 📊 [USA Crime Analysis](https://github.com/melofy-vibes/USA-Crime-Analysis)
-
-
-#### 🍳 [Delashpaz](https://github.com/melofy-vibes/Delashpaz)
-
-
----
-
 ## 🎯 Current Goals
 
 * Build impactful AI projects

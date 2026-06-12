@@ -5,9 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;NLP+Explorer;Computer+Vision+Developer" alt="Typing SVG" />
 
 ---
-
 ![My GIF](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNms4cG4yODI2b3NtNnR0M2Uwc3RteXBweTR1a2p2ZnYxODN3aWoxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif)
-
 ## 🚀 About Me
 
 🧠 Learning **Deep Learning**, **NLP**, and **Computer Vision**

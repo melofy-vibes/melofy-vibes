@@ -59,6 +59,13 @@
 
 ---
 
+## 📊 GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melofy-vibes&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melofy-vibes&layout=compact&theme=tokyonight)
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">

@@ -34,6 +34,9 @@
 
 ### 🚀 Featured Projects
 
+#### 📸 [Instagram Attractiveness Scorer](https://github.com/melofy-vibes/Instagram-Attractiveness-Scorer.git)
+
+
 #### 🧍 [Pose Detection](https://github.com/melofy-vibes/Pose-Detection.git)
 
 

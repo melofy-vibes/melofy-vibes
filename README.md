@@ -9,6 +9,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyNms4cG4yODI2b3NtNnR0M2Uwc3RteXBweTR1a2p2ZnYxODN3aWoxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="350">
 </p>
 
+---
 
 ## 🚀 About Me
 
@@ -60,6 +61,13 @@
 <a href="mailto:goharshadimehraveh@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
+</p>
+
+
+<p align="center">
+  <a href="https://melofy-vibes.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
 </p>
 
 ---

@@ -58,15 +58,16 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="mailto:goharshadimehraveh@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-</p>
+  <a href="https://www.linkedin.com/in/mehraveh-goharshadi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-
-<p align="center">
+  <a href="mailto:m.goharshadi.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  
   <a href="https://melofy-vibes.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
 

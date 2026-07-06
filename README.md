@@ -51,9 +51,9 @@
 ---
 
 ## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melofy-vibes&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-kappa-eight-57.vercel.app/api?username=melofy-vibes&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=melofy-vibes&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-kappa-eight-57.vercel.app/api/top-langs/?username=melofy-vibes&layout=compact&theme=tokyonight)
 
 ---
 

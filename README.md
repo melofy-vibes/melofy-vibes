@@ -21,7 +21,6 @@
 
 🌱 Currently exploring **Transformers**, **Vector Databases**, and **RAG Systems**
 
----
 
 ## 🛠️ Tech Stack
 
@@ -40,21 +39,19 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
----
+
 ## 🎯 Current Goals
 
 * Build impactful AI projects
 * Improve Deep Learning expertise
 * Contribute to Open Source
 
----
 
 ## 📊 GitHub Analytics
 ![GitHub Stats](https://github-readme-stats-kappa-eight-57.vercel.app/api?username=melofy-vibes&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-kappa-eight-57.vercel.app/api/top-langs/?username=melofy-vibes&layout=compact&theme=tokyonight)
 
----
 
 ## 🌐 Connect With Me
 
@@ -68,7 +65,6 @@
   </a>
 </p>
 
----
 
 ![](https://komarev.com/ghpvc/?username=melofy-vibes\&color=blue)
 
